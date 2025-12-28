@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SCE0610-Programacao-Orientada-a-Objetos">
-    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:17.841782Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:45.632828Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
